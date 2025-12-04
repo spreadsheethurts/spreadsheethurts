@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+.idea
+.env
+.venv
+*.log
+.key
+
+*cache
+google_credential.json
+
+node_modules
+__pycache__
+
+
