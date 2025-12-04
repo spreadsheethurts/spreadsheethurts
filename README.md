@@ -43,3 +43,9 @@ For example, the decision tree for Microsoft Excel is shown below. You can find 
 
 ![Excel Decision Tree](assets/excel.svg)
 
+## Applications
+TBD
+
+## Scripts
+
+TBD
